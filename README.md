@@ -85,15 +85,10 @@ void loop() {
 ## 🚀 How to Run
 
 - Connect HC-SR04 to Thingzkit Mini as per the diagram.
-
 - Open Arduino IDE and paste the code above.
-
 - Select the correct board and COM port.
-
-- Upload the code.
-
+- Upload the code
 - Open Serial Monitor (Ctrl + Shift + M).
-
 - Move your hand in front of the sensor and observe real-time distance in cm.
 
 ---
@@ -101,23 +96,20 @@ void loop() {
 ## 💡 Applications
 
 - Smart parking systems
-
 - Obstacle detection in robots
-
 - Level measurement (water, grain)
-
 - Security alert systems
 
 ----
 
 ## 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the ```LICENSE``` file for details.
 
 ---
 
 ## 👩‍💻 Author
 Kaviya Murugan
 🎓 ECE Engineering | 💡 Embedded & AI Enthusiast
-🔗 LinkedIn
+🔗  [LinkedIn](https://linkedin.com/in/kaviyamurugan) | [GitHub](https://github.com/kaviya-3016)
 
 ---
