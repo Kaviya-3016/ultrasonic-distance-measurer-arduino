@@ -72,41 +72,41 @@ void loop() {
 ---
 
 ## 🔎 Output Screenshot
-Serail Monitor Output
 
-Distance: 15.32 cm
-Distance: 16.04 cm
-Distance: 18.25 cm
-Distance: 14.91 cm
+- **Serail Monitor Output**
 
+- Distance: 15.32 cm
+- Distance: 16.04 cm
+- Distance: 18.25 cm
+- Distance: 14.91 cm
 
 ---
 
 ## 🚀 How to Run
 
-Connect HC-SR04 to Thingzkit Mini as per the diagram.
+- Connect HC-SR04 to Thingzkit Mini as per the diagram.
 
-Open Arduino IDE and paste the code above.
+- Open Arduino IDE and paste the code above.
 
-Select the correct board and COM port.
+- Select the correct board and COM port.
 
-Upload the code.
+- Upload the code.
 
-Open Serial Monitor (Ctrl + Shift + M).
+- Open Serial Monitor (Ctrl + Shift + M).
 
-Move your hand in front of the sensor and observe real-time distance in cm.
+- Move your hand in front of the sensor and observe real-time distance in cm.
 
 ---
 
 ## 💡 Applications
 
-Smart parking systems
+- Smart parking systems
 
-Obstacle detection in robots
+- Obstacle detection in robots
 
-Level measurement (water, grain)
+- Level measurement (water, grain)
 
-Security alert systems
+- Security alert systems
 
 ----
 
